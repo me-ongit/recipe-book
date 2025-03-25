@@ -7,7 +7,7 @@
 
 ## Instructions
 
-- Mix nut 1 and 2 together
+- In a bowl, mix nut 1 and 2 together
 
 ## Advice
 - You can also add dried fruits
