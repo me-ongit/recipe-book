@@ -2,12 +2,14 @@
 
 ## Ingredients
 
-- Nut 1
-- Nut 2
+- almonds
+- cashew nuts
+- walnuts
+- etc
 
 ## Instructions
 
-- In a bowl, mix nut 1 and 2 together
+- In a bowl, mix all nuts together
 
 ## Advice
 - You can also add dried fruits
