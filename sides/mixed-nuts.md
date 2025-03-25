@@ -5,6 +5,7 @@
 - almonds
 - cashew nuts
 - walnuts
+- pecran nuts
 - etc
 
 ## Instructions
